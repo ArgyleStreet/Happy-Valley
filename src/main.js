@@ -1,4 +1,4 @@
-import {IMG_SKY, IMG_HORSE, IMG_TERRAIN, ANI_HORSE} from './enum';
+import {IMG_SKY, IMG_HORSE, IMG_TERRAIN, IMG_BUSH1, IMG_BUSH2, IMG_BUSH3, ANI_HORSE} from './enum';
 let Phaser = require('phaser');
 
 let game = new Phaser.Game(800, 600, Phaser.WEBGL_MULTI, 'happy-valley', {
